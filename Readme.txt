@@ -7,3 +7,5 @@ particitpants to the word or testt doc
 
 naya kura add gareko
 Githubber is here
+
+introduction was added to this intro
