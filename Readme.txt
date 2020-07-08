@@ -11,3 +11,7 @@ naya kura add gareko
 Githubber is here
 
 introduction was added to this intro
+
+
+this is the text that is used for first branch and this can be used vey well
+
