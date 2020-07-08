@@ -21,3 +21,4 @@ this is the text that is used for first branch and this can be used vey well
 this is the part which is the introducitotn that is added later than first brandh and its working??
 >>>>>>> introduction
 
+this is the pull garne technique hai terminal ma!!
